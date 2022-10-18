@@ -26,11 +26,14 @@ $ pip install MySQL-Python
 $ pip install mysql-connector
 ```
 
-* To run this project, clone it locally using git:
+* Open the XAMPP Control Panel.
+* Open admin page for MySQL. 
+* Create the tables required for the database (Book, Member and Transaction) with the required schema.
 
+* To run this project, clone it locally using git:
 ```
-$ git clone https://github.com/bistimulus/Shoot-Aliens.git
-$ cd Shoot-Aliens
-$ python3 alien_invasion.py
+$ git clone https://github.com/bistimulus/Book-House.git
+$ cd Book-House
+$ python book_house.py
 
 ```
