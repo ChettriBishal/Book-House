@@ -8,8 +8,9 @@
 ## General info
 
 * This project is used to depict library management system for a college.
-* A user can add himself as member and perform activities like issuing, returning and searching books.
-* Information is saved into database rendered through MySQL via XAMPP
+* A user can add himself as member and perform activities like searching, issuing, and returning books.
+* Information is saved into database rendered through MySQL via XAMPP. 
+* We can update the records including the book details.
 
 ## Technologies
 Project is created with:
